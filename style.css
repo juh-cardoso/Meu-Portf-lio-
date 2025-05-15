@@ -7,7 +7,7 @@
 }
 
 body {
-    background: url("img/_.jpeg") no-repeat center center fixed;
+    background: url("img/_\ \(1\).jpeg") no-repeat center center fixed;
     font-family: 'Chakra Petch', sans-serif;
     background-size: cover;
     color: #222;
@@ -15,7 +15,6 @@ body {
     padding: 0;
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
 }
 
 
