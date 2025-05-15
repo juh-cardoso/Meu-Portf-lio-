@@ -9,7 +9,15 @@
 body {
     background: url("img/_.jpeg") no-repeat center center fixed;
     font-family: 'Chakra Petch', sans-serif;
+    background-size: cover;
+    color: #222;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
+
 
 h1, h2, h5 {
     color: var(--cor-secundaria);
